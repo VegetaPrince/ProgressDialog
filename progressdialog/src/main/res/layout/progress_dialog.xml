@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:oden="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00000000"
+    android:gravity="center">
+
+    <LinearLayout
+        android:id="@+id/dialog_linear"
+        android:layout_width="100dp"
+        android:layout_height="100dp">
+
+        <com.vegeta.dialog.RotateLoading
+            android:id="@+id/dialog_rotate_load"
+            oden:loading_visible="false"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/dialog_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:text="稍等一下，数据就来..." />
+</LinearLayout>
