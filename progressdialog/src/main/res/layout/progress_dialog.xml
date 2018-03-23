@@ -12,7 +12,7 @@
         android:layout_width="100dp"
         android:layout_height="100dp">
 
-        <com.vegeta.dialog.RotateLoading
+        <com.vegeta.progressdialog.RotateLoading
             android:id="@+id/dialog_rotate_load"
             oden:loading_visible="false"
             android:layout_width="wrap_content"
