@@ -25,5 +25,4 @@ dependencies {
 
 ## 效果图展示：
 
-```java
 ![image](https://raw.githubusercontent.com/VegetaPrince/ProgressDialog/master/ezgif.com-gif-to-apng.png)
