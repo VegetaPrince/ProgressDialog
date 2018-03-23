@@ -23,6 +23,6 @@ dependencies {
 	}
 ```
 
-## 效果图展示：
+## 效果图展示（真机体验更佳）：
 
 ![image](https://raw.githubusercontent.com/VegetaPrince/ProgressDialog/master/ezgif.com-gif-to-apng.png)
