@@ -21,5 +21,9 @@ dependencies {
 	compile 'com.github.VegetaPrince:ProgressDialog:v1.0'
 	
 	}
+```
 
-		
+## 效果图展示：
+
+```java
+![image](https://github.com/VegetaPrince/ProgressDialog/blob/master/ezgif.com-gif-to-apng.png)
