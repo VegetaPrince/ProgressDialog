@@ -17,7 +17,9 @@ allprojects {
 
 ```java
 dependencies {
+	...
 	compile 'com.github.VegetaPrince:ProgressDialog:v1.0'
+	
 	}
 
 		
