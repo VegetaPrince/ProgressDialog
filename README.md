@@ -1,8 +1,8 @@
-# ProgressDialog
+## ProgressDialog
 
 这是一个美美哒的进度框，如果你喜欢可以分享给你的好友
 
-## 如何引用？
+# 如何引用？
 
 ```java
 allprojects {
@@ -13,7 +13,7 @@ allprojects {
 	}
 ```
 
-## 添加到 build.gradle：
+# 添加到 build.gradle：
 
 ```java
 dependencies {
@@ -23,6 +23,6 @@ dependencies {
 	}
 ```
 
-## 效果图展示（真机体验更佳）：
+# 效果图展示（真机体验更佳）：
 
 ![image](https://raw.githubusercontent.com/VegetaPrince/ProgressDialog/master/ezgif.com-gif-to-apng.png)
