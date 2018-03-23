@@ -2,6 +2,8 @@
 
 这是一个美美哒的进度框，如果你喜欢可以分享给你的好友
 
+![image](https://github.com/VegetaPrince/ProgressDialog/blob/master/bitmap.gif)
+
 ### 如何引用？
 
 ```java
